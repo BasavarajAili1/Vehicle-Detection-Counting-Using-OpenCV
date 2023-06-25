@@ -8,3 +8,7 @@ At last, vehicle counting is done by utilizing virtual identification zones. The
 The main aim of our system is to detect the moments of vehicles by analyzing camera pictures with the help of computer vision. 
 Vehicle counting process accepts the video from single camera & detects the moving vehicles and counts them. 
 Vehicle detection and counting system on highway is developed using OpenCV image development kits.
+
+
+https://github.com/BasavarajAili1/vehicle-detection-and-counting/assets/112578014/41f123a8-9546-459b-b45e-0bee6becb6d2
+
