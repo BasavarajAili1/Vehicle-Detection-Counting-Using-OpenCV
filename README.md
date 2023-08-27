@@ -54,9 +54,10 @@ However, we are not going to use the entire frame to detect moving vehicles. We 
 
 ## Advantages👌
 •	Surveying is easy <br>
-•	Maintenance is easy <b>
-•	Transport/Logistics Companies may take better usage <b>
-•	Traffic Management
+•	Maintenance is easy <br>
+•	Transport/Logistics Companies may take better usage <br>
+•	Traffic Management <br>
+
 
 # Here we go for a demo 🐱‍🏍
 https://github.com/BasavarajAili1/vehicle-detection-and-counting/assets/112578014/41f123a8-9546-459b-b45e-0bee6becb6d2
