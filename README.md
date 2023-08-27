@@ -53,11 +53,11 @@ However, we are not going to use the entire frame to detect moving vehicles. We 
 ✔The area below the horizontal line y = 80 is our vehicle detection zone. We will detect any movement that happens in this zone only. You can create your own detection zone if you want to play around with the concept.
 
 ## Advantages👌
-•	Surveying is easy.
-•	Maintenance is easy.
-•	Transport/Logistics Companies may take better usage.
-•	Traffic Management.
+•	Surveying is easy <br>
+•	Maintenance is easy <b>
+•	Transport/Logistics Companies may take better usage <b>
+•	Traffic Management
 
-
+# Here we go for a demo 🐱‍🏍
 https://github.com/BasavarajAili1/vehicle-detection-and-counting/assets/112578014/41f123a8-9546-459b-b45e-0bee6becb6d2
 
