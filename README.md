@@ -1,4 +1,4 @@
-# vehicle-detection-and-counting
+# vehicle-detection-and-counting 💡
 Vehicle detecting and also counting are becomes growing important in a area of highway regulators. 
 However,because of the various structure of vehicles, their detections remain challenging which directly influence in accuracy of a vehicle count.
 The proposed technique uses the background subtraction method to discover forefront objects in video sequel. 
