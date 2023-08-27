@@ -37,7 +37,7 @@ our upcoming articles.
 ### We will be using the computer vision library OpenCV a lot in this implementation. Let’s first import the required libraries and the modules.
 ✔Keep the frames in a folder named “frames” inside your working directory. From that folder, we will import the frames and keep them in a list and then for data exploration let’s display two consecutive frames:
 
-It is hard to find any difference in these two frames, isn’t it? As discussed earlier, taking the difference of the pixel values of two consecutive frames will help us observe the moving objects.
+It is hard to find any difference in these two frames, isn’t it? taking the difference of the pixel values of two consecutive frames will help us observe the moving objects.
 
 ![image](https://github.com/BasavarajAili1/Vehicle-Detection-Counting-Using-OpenCV/assets/112578014/6c06cda8-638b-40fa-8707-01482c4bff2f)
 
